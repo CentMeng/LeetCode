@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4875ef12-7089-4662-91d9-118fd2a4d6da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution9.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,15 +42,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Solution4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution4.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,14 +60,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution9.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution9.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="199">
+              <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
               <folding>
                 <element signature="e#203#204#0" expanded="true" />
                 <element signature="e#239#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution10.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="e#955#956#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/Solution7.java" />
         <option value="$PROJECT_DIR$/src/Solution8.java" />
         <option value="$PROJECT_DIR$/src/Solution9.java" />
+        <option value="$PROJECT_DIR$/src/Solution10.java" />
       </list>
     </option>
   </component>
@@ -213,9 +220,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution9">
-    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution5" />
+  <component name="RunManager" selected="Application.Solution10">
+    <configuration name="Solution10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution10" />
       <module name="LeetCode" />
     </configuration>
     <configuration name="Solution6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -250,19 +257,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution5" />
       <item itemvalue="Application.Solution6" />
       <item itemvalue="Application.Solution7" />
       <item itemvalue="Application.Solution8" />
       <item itemvalue="Application.Solution9" />
+      <item itemvalue="Application.Solution10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution10" />
         <item itemvalue="Application.Solution9" />
         <item itemvalue="Application.Solution8" />
         <item itemvalue="Application.Solution7" />
         <item itemvalue="Application.Solution6" />
-        <item itemvalue="Application.Solution5" />
       </list>
     </recent_temporary>
   </component>
@@ -278,16 +285,15 @@
       <updated>1572943956981</updated>
       <workItem from="1572943963710" duration="1403000" />
       <workItem from="1573006077928" duration="28470000" />
-      <workItem from="1573456916416" duration="1529000" />
+      <workItem from="1573456916416" duration="14497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31402000" />
+    <option name="totallyTimeSpent" value="44370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32916147" />
@@ -301,16 +307,16 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39924905" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29036295" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32916147" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34668335" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34668335" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32165205" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32165205" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25862068" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -330,7 +336,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="31" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -560,11 +566,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        <state relative-caret-position="199">
+          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
           <folding>
             <element signature="e#203#204#0" expanded="true" />
             <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
           </folding>
         </state>
       </provider>
