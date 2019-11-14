@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4875ef12-7089-4662-91d9-118fd2a4d6da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution9.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution10.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution10.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution10.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -86,13 +84,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution6.java">
+      <file leaf-file-name="Solution11.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1044">
-              <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+            <state relative-caret-position="193">
+              <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/Solution8.java" />
         <option value="$PROJECT_DIR$/src/Solution9.java" />
         <option value="$PROJECT_DIR$/src/Solution10.java" />
+        <option value="$PROJECT_DIR$/src/Solution11.java" />
       </list>
     </option>
   </component>
@@ -169,7 +169,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -220,13 +220,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution10">
+  <component name="RunManager" selected="Application.Solution11">
     <configuration name="Solution10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution10" />
       <module name="LeetCode" />
     </configuration>
-    <configuration name="Solution6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution6" />
+    <configuration name="Solution11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution11" />
       <module name="LeetCode" />
     </configuration>
     <configuration name="Solution7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -257,19 +257,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution6" />
       <item itemvalue="Application.Solution7" />
       <item itemvalue="Application.Solution8" />
       <item itemvalue="Application.Solution9" />
       <item itemvalue="Application.Solution10" />
+      <item itemvalue="Application.Solution11" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution11" />
         <item itemvalue="Application.Solution10" />
         <item itemvalue="Application.Solution9" />
         <item itemvalue="Application.Solution8" />
         <item itemvalue="Application.Solution7" />
-        <item itemvalue="Application.Solution6" />
       </list>
     </recent_temporary>
   </component>
@@ -285,15 +285,16 @@
       <updated>1572943956981</updated>
       <workItem from="1572943963710" duration="1403000" />
       <workItem from="1573006077928" duration="28470000" />
-      <workItem from="1573456916416" duration="14497000" />
+      <workItem from="1573456916416" duration="16845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44370000" />
+    <option name="totallyTimeSpent" value="46718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32916147" />
@@ -313,10 +314,10 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34668335" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34668335" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32165205" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32165205" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25862068" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -582,6 +583,17 @@
           <folding>
             <element signature="e#955#956#0" expanded="true" />
             <element signature="e#1018#1019#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
           </folding>
         </state>
       </provider>
