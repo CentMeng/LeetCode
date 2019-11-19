@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4875ef12-7089-4662-91d9-118fd2a4d6da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution12IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution13RomanToInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution11.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,20 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution12IntegerToRoman.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution12IntegerToRoman.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution12IntegerToRoman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+            <state relative-caret-position="411">
+              <caret line="52" column="98" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="52" selection-end-column="98" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution4.java">
+      <file leaf-file-name="Solution13RomanToInteger.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution13RomanToInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="132">
+              <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -151,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/Solution11.java" />
         <option value="$PROJECT_DIR$/src/Solution11IntegerToRoman.java" />
         <option value="$PROJECT_DIR$/src/Solution12IntegerToRoman.java" />
+        <option value="$PROJECT_DIR$/src/Solution13RomanToInteger.java" />
       </list>
     </option>
   </component>
@@ -211,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution13RomanToInteger">
     <configuration name="Solution10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution10" />
       <module name="LeetCode" />
@@ -224,8 +224,8 @@
       <option name="MAIN_CLASS_NAME" value="Solution12IntegerToRoman" />
       <module name="LeetCode" />
     </configuration>
-    <configuration name="Solution8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution8" />
+    <configuration name="Solution13RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution13RomanToInteger" />
       <module name="LeetCode" />
     </configuration>
     <configuration name="Solution9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -248,19 +248,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution8" />
       <item itemvalue="Application.Solution9" />
       <item itemvalue="Application.Solution10" />
       <item itemvalue="Application.Solution11" />
       <item itemvalue="Application.Solution12IntegerToRoman" />
+      <item itemvalue="Application.Solution13RomanToInteger" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution13RomanToInteger" />
         <item itemvalue="Application.Solution12IntegerToRoman" />
         <item itemvalue="Application.Solution11" />
         <item itemvalue="Application.Solution10" />
         <item itemvalue="Application.Solution9" />
-        <item itemvalue="Application.Solution8" />
       </list>
     </recent_temporary>
   </component>
@@ -277,15 +277,16 @@
       <workItem from="1572943963710" duration="1403000" />
       <workItem from="1573006077928" duration="28470000" />
       <workItem from="1573456916416" duration="18393000" />
-      <workItem from="1573782288788" duration="6709000" />
+      <workItem from="1573782288788" duration="9513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54975000" />
+    <option name="totallyTimeSpent" value="57779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32916147" />
@@ -305,10 +306,10 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34668335" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34668335" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32916147" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1864831" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26293105" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -661,8 +662,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution12IntegerToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        <state relative-caret-position="411">
+          <caret line="52" column="98" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="52" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution13RomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
         </state>
       </provider>
     </entry>
